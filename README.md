@@ -18,3 +18,6 @@ This file must be filled out if you are working in a group for this assignment. 
 
 Group Work Evaluation.docx <br>
 Same as the previous file, but Word format. <br><br>
+
+Assignment 3 Employees Marking Without Hierarchy Shown.pdf <br>
+A marking guide for this assignment. <br><br>
